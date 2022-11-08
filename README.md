@@ -22,7 +22,7 @@ THe analysis of the election shows that:
     *  Candidate 1 recieved "x%" of the vote and "y" number of votes.
     *  Candidate 2 recieved "x%" of the vote and "y" number of votes.
     *  Candidate 3 recieved "x%" of the vote and "y" number of votes.
-  * Thw winner of the election was:
+  * The winner of the election was:
     *  Candidate (1, 2, or 3) who recieved "x%" and "y" number of votes.
 ## Challenege Overview
 ## Challenge Summary
