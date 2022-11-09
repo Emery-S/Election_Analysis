@@ -40,6 +40,7 @@ The analysis of the election shows that:
 
 The analysis of voter turnout demonstrates:
   *  Participating counties were: 
+  *  
     *  Jefferson
     *  Denver
     *  Arapahoe
