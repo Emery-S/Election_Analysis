@@ -40,9 +40,9 @@ The analysis of the election shows that:
 
 The analysis of voter turnout demonstrates:
   *  Participating counties were:
-    * Jefferson
-    * Denver
-    * Arapahoe
+    *  Jefferson
+    *  Denver
+    *  Arapahoe
   * Voter turnout data per county:
     * Jefferson recieved 10.5% with 38,855 voters
     * Denver recieved 82.8% with 306,055 voters
