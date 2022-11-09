@@ -39,7 +39,7 @@ The analysis of the election shows that:
     *  Diana DeGette who recieved 73.8% and 272,892 number of votes.
 
 The analysis of voter turnout demonstrates:
-  *  Participating counties were:
+  *  Participating counties were: 
     *  Jefferson
     *  Denver
     *  Arapahoe
