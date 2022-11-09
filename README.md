@@ -2,6 +2,7 @@
 
 ## Project Overview
 A Colorado Board of Elections employee has requested, for a local congressional election, the following:
+    
     1. Calculate the total number of votes cast
     2. Get a list of participating counties in the data set
     3. Calculate voter turnout for each county
