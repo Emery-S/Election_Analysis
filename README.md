@@ -23,8 +23,8 @@ This analysis is to better understand the results of the election as well as hel
 * Software Python 3.6.1, Visual Studio Code 1.38.1
 
 ## Election-Audit Results
-The analysis of the election shows that:
 
+The analysis of the election shows that:
   * There were 369,711 votes cast in the election
   * The candidates were:
     *  Charles Casper Stockham
@@ -38,17 +38,16 @@ The analysis of the election shows that:
     *  Diana DeGette who recieved 73.8% and 272,892 number of votes.
 
 The analysis of voter turnout demonstrates:
-
-    * Participating counties were:
-        * Jefferson
-        * Denver
-        * Arapahoe
-    * Voter turnout data per county:
-        * Jefferson recieved 10.5% with 38,855 voters
-        * Denver recieved 82.8% with 306,055 voters
-        * Arapahoe recieved 6.7% with 24,801 voters
-    * County with the largest turnout was:
-        * Denver with 82.8% of voters, 306,055 in total.
+  *  Participating counties were:
+    *  Jefferson
+    *  Denver
+    *  Arapahoe
+  * Voter turnout data per county:
+    * Jefferson recieved 10.5% with 38,855 voters
+    * Denver recieved 82.8% with 306,055 voters
+    * Arapahoe recieved 6.7% with 24,801 voters
+  * County with the largest turnout was:
+     * Denver with 82.8% of voters, 306,055 in total.
         
 ## Election-Audit Summary
 This audit can help the government or future candidates get a better understanding of where voters come from. This would influence campaign work as well as election and voting reminders, perhap increasing more of them in places with lower voter turn out. It also demonstrates who won and by how much they won. It gives a look into the mindset of those specific counties and what they think they need which could influece future governmental proceedings as well as future elections and the different campaigns involved. This audit covers a basic, but essential portion of the election data. It could likely be refactored to analyze even more information such as population size per county verses voter turnout, if those data points are added to the data set.
